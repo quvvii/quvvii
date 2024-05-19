@@ -1,9 +1,10 @@
+### :squirrel: About :
 Junior Python Developer.
 Telegram Bots | UserBots. AIOgram | PyTelegramBotApi | Pyrogram
 
 Contact me: @quvi_feedback_bot
 
-Projects: 
+### :paper_clip: Projects :
 - @quvi_feedback_bot - Simple feedback bot.
 - @Puff_anonsmsbot - Anonymous messages. (BETA)
 - @Puff_helperbot - Bot-moderator for chats. (BETA)
