@@ -3,10 +3,10 @@
 Telegram Bots | UserBots. AIOgram | PyTelegramBotApi | Pyrogram
 
 ### 📎 Projects :
-- @quvi_feedback_bot - Simple feedback bot.
-- @Puff_anonsmsbot - Anonymous messages. (BETA)
-- @Puff_helperbot - Bot-moderator for chats. (BETA)
-- And more.. (they just not finished:D)
+- [@quvi_feedback_bot](https://t.me/quvi_feedback_bot) - Simple feedback bot.
+- [@Puff_anonsmsbot](https://t.me/Puff_anonsmsbot) - Anonymous messages. (BETA)
+- [@Puff_helperbot](https://t.me/Puff_helperbot) - Bot-moderator for chats. (BETA)
+- And more.. _(they just not finished:D)_
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
