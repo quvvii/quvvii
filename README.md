@@ -23,4 +23,4 @@ Contact me: @quvi_feedback_bot
   
 </div>
 
-Do you want to order a bot | userbot? (wow) Write me in Telegram: @quvi_top or via bot: @quvi_feedback_bot
+Do you want to order a bot | userbot? (wow) Write me in Telegram: @quvi_top or via bot: <a href="t.me/quvi_feedback_bot" />
