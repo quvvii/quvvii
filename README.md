@@ -1,8 +1,6 @@
 ### :dependabot: About :
-Junior Python Developer.
+**Junior Python Developer.**
 Telegram Bots | UserBots. AIOgram | PyTelegramBotApi | Pyrogram
-
-Contact me: @quvi_feedback_bot
 
 ### 📎 Projects :
 - @quvi_feedback_bot - Simple feedback bot.
@@ -23,4 +21,4 @@ Contact me: @quvi_feedback_bot
   
 </div>
 
-Do you want to order a bot | userbot? (wow) Write me in Telegram: [@quvi_top](https://t.me/quvi_top) or via bot: [@quvi_feedback_bot](https://t.me/quvi_feedback_bot) 
+_Do you want to order a bot | userbot?_ (wow) Write me in Telegram: [@quvi_top](https://t.me/quvi_top) or via bot: [@quvi_feedback_bot](https://t.me/quvi_feedback_bot) 
