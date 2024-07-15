@@ -2,12 +2,6 @@
 **Junior Python Developer.**
 Telegram Bots | UserBots. AIOgram | PyTelegramBotApi | Pyrogram
 
-### 📎 Projects :
-- [@quvi_feedback_bot](https://t.me/quvi_feedback_bot) - Simple feedback bot.
-- [@Puff_anonsmsbot](https://t.me/Puff_anonsmsbot) - Anonymous messages. (BETA)
-- [@Puff_helperbot](https://t.me/Puff_helperbot) - Bot-moderator for chats. (BETA)
-- And more.. _(they just not finished:D)_
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
