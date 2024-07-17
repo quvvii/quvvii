@@ -6,7 +6,5 @@
   <pre>
 Back-end developer · Gamer · Cool guy
   </pre>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quvvii)
   
 </div>
