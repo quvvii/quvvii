@@ -3,9 +3,9 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python.+Databases.+Telegram+Bots" alt="Typing SVG" /></a>
 
-  ```
+  <pre>
 Back-end developer · Gamer · PyCharm Users
-  ```
+  </pre>
 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
