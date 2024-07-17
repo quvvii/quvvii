@@ -9,15 +9,3 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-
-
-## Bio
-Visit my site: [quvi.is-a.dev](https://quvi.is-a.dev)
-
-## Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quvvii&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
