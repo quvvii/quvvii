@@ -1,6 +1,6 @@
 ### :dependabot: About :
 **Junior Python Developer.**
-Telegram Bots | UserBots. AIOgram | PyTelegramBotApi | Pyrogram
+Telegram Bots. Databases.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
