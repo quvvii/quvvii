@@ -5,7 +5,7 @@
 
 ---
 
-  <h3>Tech Stack and Tools:</h3>
+  <h3>Main Tech Stack and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
