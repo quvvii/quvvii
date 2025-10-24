@@ -8,14 +8,11 @@
   <h3>Tech Stack and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Tortoise ORM](https://img.shields.io/badge/Tortoise%20ORM-5C8D4F?style=flat&logo=python&logoColor=white) 
 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
-![Aiogram 3](https://img.shields.io/badge/Aiogram%203-0088CC?logo=telegram&logoColor=white) ![Pyrogram](https://img.shields.io/badge/Pyrogram-0088CC?logo=telegram&logoColor=white) ![python-telegram-bot](https://img.shields.io/badge/pyTelegramBotAPI-0088CC?logo=telegram&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Aiogram 3](https://img.shields.io/badge/Aiogram%203-0088CC?logo=telegram&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
