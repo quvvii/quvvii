@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://i.ibb.co/j9HkjqxK/photo-2025-10-18-21-57-43.jpg" width="70%">
   
-  <p>Back-end developer from Russia</p>
+  <p>Back-end developer</p>
 
 ---
-
-  <h3>Main Tech Stack and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
